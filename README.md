@@ -49,7 +49,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgements
 
-Site template is a fork from <a href="https://github.com/sssain/simple-portfolio">Simple Portfolio</a>.
+Site is a code along from <a href="https://www.youtube.com/@CodingSnow">Coding Snow </a> via <a href="https://www.youtube.com/watch?v=ThaIBFd387A">Responsive Website Design | With Background Video Slider - Travel Website - HTML CSS & Javascript </a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
