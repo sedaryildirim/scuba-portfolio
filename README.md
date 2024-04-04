@@ -16,16 +16,15 @@
 <h3 align="center">Freelance Scuba Portfolio</h3>
 
   <p align="center">
-    a small list of resources i've curated while self learning to code which may help others
-    <br />
-    Site template is a fork from  <a href="https://github.com/sssain/simple-portfolio">Simple Portfolio</a>. For self-educational purposes only and not complete!
+    A personalised freelance scuba instructor/divemaster portfolio
     <br />
     <br />
-    <a href="https://sedaryildirim.github.io/junior-developer-resources/">View Site</a>
+    <br />
+    <a href="https://sedaryildirim.github.io/scuba-portfolio/">View Site</a>
     ·
-    <a href="https://github.com/sedaryildirim/junior-developer-resources/issues">Report Bug</a>
+    <a href="https://github.com/sedaryildirim/scuba-portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sedaryildirim/junior-developer-resources/issues">Request Feature</a>
+    <a href="https://github.com/sedaryildirim/scuba-portfolio/issues">Request Feature</a>
   </p>
 </div>
 
@@ -49,19 +48,19 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgements
 
-Site is a code along from <a href="https://www.youtube.com/@CodingSnow">Coding Snow </a> via <a href="https://www.youtube.com/watch?v=ThaIBFd387A">Responsive Website Design | With Background Video Slider - Travel Website - HTML CSS & Javascript </a>.
+Site is a code along from <a href="https://www.youtube.com/@CodingSnow">Coding Snow </a> via <a href="https://www.youtube.com/watch?v=ThaIBFd387A">Responsive Website Design</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/sedaryildirim/junior-developer-resources.svg?style=for-the-badge
-[contributors-url]: https://github.com/sedaryildirim/junior-developer-resources/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sedaryildirim/junior-developer-resources.svg?style=for-the-badge
-[forks-url]: https://github.com/sedaryildirim/junior-developer-resources/network/members
-[stars-shield]: https://img.shields.io/github/stars/sedaryildirim/junior-developer-resources.svg?style=for-the-badge
-[stars-url]: https://github.com/sedaryildirim/junior-developer-resources/stargazers
-[license-shield]: https://img.shields.io/github/license/sedaryildirim/junior-developer-resources.svg?style=for-the-badge
-[license-url]: https://github.com/sedaryildirim/junior-developer-resources/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sedaryildirim/scuba-portfolio.svg?style=for-the-badge
+[contributors-url]: https://github.com/sedaryildirim/scuba-portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sedaryildirim/scuba-portfolio.svg?style=for-the-badge
+[forks-url]: https://github.com/sedaryildirim/scuba-portfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/sedaryildirim/scuba-portfolio.svg?style=for-the-badge
+[stars-url]: https://github.com/sedaryildirim/scuba-portfolio/stargazers
+[license-shield]: https://img.shields.io/github/license/sedaryildirim/scuba-portfolio.svg?style=for-the-badge
+[license-url]: https://github.com/sedaryildirim/scuba-portfolio/blob/main/LICENSE.txt
 [product-screenshot]: imgs/screenshot.png
