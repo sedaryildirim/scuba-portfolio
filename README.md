@@ -36,6 +36,17 @@
     <img src="imgs/Screenshot.png" alt="Logo">
 </div>
 
+<!-- ISSUES -->
+
+## Issues
+
+Discovered following issues while coding along
+
+Transition: Ease replaced with Transition Ease-In
+Font Awesome Libraries and classes needed updating
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
 ## License
