@@ -36,4 +36,3 @@ btns.forEach((btn, i) => {
     sliderNav(i);
   })
 });
-
