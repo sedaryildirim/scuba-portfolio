@@ -32,13 +32,13 @@ header .navigation{
     position: relative;
 }
 
-header .navigation .navigation-items a{
+header .navigation .navigation-items p{
     position: relative;
     color: white;
     font-size: 1em;
     font-weight: 500;
     text-decoration: none;
-    margin-left: 30px;
+    /* margin-left: 30px; */
     transition: 0.3s ease-in;
 }
 
@@ -56,6 +56,54 @@ header .navigation .navigation-items a:before{
 header .navigation .navigation-items a:hover:before{
     width: 100%;
 }
+
+.navigation-items {
+    z-index: 888;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* transform: translateY(80px); */
+    margin-bottom: 12px;
+    color: white;
+    
+}
+
+.navigation-items .nav-btn:not(:last-child) {
+    margin-right: 20px;
+}
+
+.navigation-items .nav-btn:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+    transition: 0.3s ease-in;
+}
+
+.hover-effect {
+	color: #18272F;
+  position: relative;
+  text-decoration: none;
+}
+
+.hover-effect::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  border-radius: 2px;
+  background-color: white;
+  bottom: 0;
+  left: 0;
+  transform-origin: right;
+  transform: scaleX(0);
+  transition: transform .3s ease-in-out;
+}
+
+.hover-effect:hover::before {
+  transform-origin: left;
+  transform: scaleX(1);
+}
+
 
 section {
    padding: 100px 200px; 
@@ -152,38 +200,6 @@ margin-bottom: 40px;
     width: 100%;
     height: 100%;
     object-fit: cover;
-}
-
-.slider-navigation {
-    z-index: 888;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transform: translateY(80px);
-    margin-bottom: 12px;
-}
-
-.slider-navigation .nav-btn {
-    width: 12px;
-    height: 12px;
-    background: #fff;
-    border-radius: 50%;
-    cursor: pointer;
-    box-shadow: 0 0 2px rgba(255, 255, 255, 0.5s);
-    transition: 0.3s ease-in;
-}
-
-.slider-navigation .nav-btn.active {
-    background: #2596E9;
-}
-
-.slider-navigation .nav-btn:not(:last-child) {
-    margin-right: 20px;
-}
-
-.slider-navigation .nav-btn:hover {
-    transform: scale(1.2);
 }
 
 .video-slide {
